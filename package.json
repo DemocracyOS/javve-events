@@ -1,6 +1,6 @@
 {
-  "name": "javve-events",
-  "repo": "slifszyc/javve-events",
+  "name": "democracyos-javve-events",
+  "repo": "DemocracyOS/javve-events",
   "description": "Event binding component with support for single elements as well as NodeLists, HTMLCollections and Arrays",
   "version": "0.0.2",
   "keywords": ["event", "events", "array", "nodelist"],
@@ -9,7 +9,7 @@
   ],
   "dependencies": {
     "component-event": "0.1.4",
-    "to-array": "git://github.com/slifszyc/to-array"
+    "democracyos-to-array": "^0.2.1"
   },
   "twitter": "@javve",
   "browser": {
